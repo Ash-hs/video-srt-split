@@ -2,7 +2,12 @@
   "name": "video-srt-split",
   "version": "0.0.1",
   "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node bin/index.js"
+  },
   "dependencies": {
+    "iconv": "^3.0.1",
     "minimist": "^1.2.5"
   },
   "bin": {
