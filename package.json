@@ -6,6 +6,6 @@
     "minimist": "^1.2.5"
   },
   "bin": {
-    "v-s-split": "node index.js"
+    "v-s-split": "./index.js"
   }
 }
