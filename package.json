@@ -1,0 +1,11 @@
+{
+  "name": "video-srt-split",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "bin": {
+    "v-s-split": "node index.js"
+  }
+}
